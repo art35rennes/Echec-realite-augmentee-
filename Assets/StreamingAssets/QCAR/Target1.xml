@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="RB1" size="0.100000 0.111111" />
+    <ImageTarget name="RN1" size="0.100000 0.088235" />
+    <ImageTarget name="PB1" size="0.100000 0.112575" />
+    <ImageTarget name="FB1" size="0.100000 0.108527" />
+    <ImageTarget name="Leclerc" size="0.100000 0.160312" />
+    <ImageTarget name="KFC" size="0.100000 0.159308" />
+    <ImageTarget name="isen" size="0.100000 0.160304" />
+    <ImageTarget name="epitech" size="0.100000 0.150568" />
+    <ImageTarget name="brioche" size="0.100000 0.155892" />
+    <ImageTarget name="beautysucces" size="0.100000 0.149711" />
+    <ImageTarget name="burritos" size="0.100000 0.146154" />
+    <ImageTarget name="korrigo" size="0.100000 0.062100" />
+    <ImageTarget name="trousse2" size="0.100000 0.063785" />
+  </Tracking>
+</QCARConfig>
